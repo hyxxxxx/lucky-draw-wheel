@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Draw Wheel",
+  "description": "An interactive, responsive lucky draw wheel with dynamic probability calculation, custom prize quantities, particle celebration, and localStorage data retention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
