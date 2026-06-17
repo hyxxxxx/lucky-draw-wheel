@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+coverage/
+.git/
+.agents/
+.codex/
+.env*
+!.env.example
+*.log
+.DS_Store
